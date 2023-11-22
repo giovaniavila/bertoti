@@ -26,44 +26,65 @@ Quando compartilhamos um tweet, enfrentamos uma limitação significativa: a imp
 <br>
 
 # Estética e design minimalista 
-O Pinterest destaca-se positivamente ao adotar um design minimalista, seguindo a heurística de Nielsen número 8. Sua interface limpa e intuitiva coloca ênfase nas imagens, proporcionando uma experiência de usuário eficiente e agradável. A organização visual dos pins e boards facilita a descoberta de conteúdo, promovendo uma navegação fluida. A abordagem "menos é mais" do Pinterest não apenas respeita as diretrizes de Nielsen, mas também contribui para uma plataforma visualmente atraente e acessível a todos os usuários.
+O LeetCode poderia beneficiar-se ao incorporar a heurística de estética minimalista em seu site. Atualmente, a plataforma tem uma interface densa, com elementos que podem parecer desorganizados e sobrecarregados. Adotar um design mais simplificado e limpo melhoraria a usabilidade, tornando a navegação mais intuitiva para os usuários. A redução de distrações visuais e a ênfase em uma estética mais clean contribuiriam significativamente para uma experiência mais agradável e eficiente no LeetCode.
 
-![image](https://github.com/giovaniavila/bertoti/assets/112128418/b8a96a68-1ea8-4c99-870d-be400596c5b2)
+![image](https://github.com/giovaniavila/bertoti/assets/112128418/18eb57af-f832-4f3b-955f-38b5af3f05e4)
 
 <br>
 <br>
 <br>
+
 
 # Consistência e padrões
-O LeetCode demonstra eficácia na aplicação da heurística de consistência de padrões, garantindo uma experiência de usuário uniforme e intuitiva. A estrutura consistente dos problemas, a apresentação clara das informações e a navegação coerente facilitam a prática de codificação de forma harmoniosa. Ao manter padrões visuais e de interação em toda a plataforma, o LeetCode permite que os usuários se concentrem na resolução de problemas sem distrações. Essa abordagem coesa contribui significativamente para a eficácia do site como uma ferramenta de aprendizado e prática de programação.
+O erro visual na plataforma Siga da Fatec pode impactar negativamente a experiência do usuário, mesmo que funcional. A ausência de heurísticas de consistência e padrões pode resultar em uma disposição caótica de elementos na interface, levando a uma estética desagradável e confusa. 
 
-![image](https://github.com/giovaniavila/bertoti/assets/112128418/8b06f7da-2d13-40ec-af41-91d8c86abfee)
+![image](https://github.com/giovaniavila/bertoti/assets/112128418/9f9c185c-86d5-4a0f-9b0e-f46a40fca05c)
+
+<br>
+<br>
+<br>
+
+# Prevenção de erros
+Ao contrário do Google, o DuckDuckGo não incorpora uma forte heurística de prevenção de erros em sua função de busca. Isso significa que, ao digitar uma palavra incorreta, o DuckDuckGo pode não oferecer sugestões automáticas para corrigir possíveis erros de digitação. A ausência dessa heurística pode resultar em frustração para os usuários, especialmente aqueles propensos a erros ortográficos comuns.
+
+![image](https://github.com/giovaniavila/bertoti/assets/112128418/8fff2f62-eba3-448c-8ec2-e256a5fbc7f1)
+
+
+<br>
+<br>
+<br>
+
+# Reconhecimento em vez de memorização
+O AliExpress enfrenta desafios relacionados ao reconhecimento em vez de memorização, já que a abundância de informações pode sobrecarregar os usuários. Em vez de oferecer sugestões personalizadas com base no histórico de compras, o site muitas vezes deixa os usuários perdidos em meio a uma variedade de opções. Ao adotar mais recursos de reconhecimento, como recomendações personalizadas e navegação simplificada, o AliExpress poderia melhorar significativamente a experiência do usuário, orientando-os de maneira mais eficaz em meio à diversidade de produtos oferecidos.
+
+![image](https://github.com/giovaniavila/bertoti/assets/112128418/8f8cf0dd-c7c6-481d-85ce-594d56aed607)
+
+<br>
+<br>
+<br>
+
+# Flexibilidade e eficiência de uso
+O Anki enfrenta desafios em termos de flexibilidade e eficiência de uso, especialmente no processo de inserção de novos cards. A interface muitas vezes exige vários cliques e etapas para criar um novo card, tornando o processo mais demorado do que o ideal. Incorporar uma abordagem mais intuitiva e eficiente, com opções simplificadas para a criação de cartões como no site quizlet, poderia melhorar significativamente a experiência do usuário. Isso permitiria que os usuários aproveitassem ao máximo a poderosa funcionalidade de repetição espaçada do Anki sem o ônus de uma curva de aprendizado mais complexa.
+
+![image](https://github.com/giovaniavila/bertoti/assets/112128418/21facb77-12ff-44d6-a5c3-aef503330a69)
+
+<br>
+<br>
+<br>
+
+# Reconhecimento em vez de memorização
+A plataforma Math Planet poderia aprimorar sua usabilidade ao reconsiderar a localização de seu menu de navegação no lado direito, indo contra os princípios de reconhecimento e memorização das heurísticas de Nielsen. Ao contrário da expectativa geral de um menu à esquerda, essa escolha pode confundir os usuários, já que desafia a convenção de navegação online. 
+
+![image](https://github.com/giovaniavila/bertoti/assets/112128418/c53223bd-3113-4579-84db-0cea3a72fc58)
 
 <br>
 <br>
 <br>
 
 # Visibilidade de qual estado estamos no sistema
-O Origamid demonstra uma aplicação eficaz da heurística da visibilidade do estado do sistema ao destacar visualmente as interações do usuário. Ao clicar em um input, a clara indicação por meio das bordas roxas oferece uma confirmação imediata da seleção, proporcionando uma compreensão instantânea do estado atual. Essa resposta visual contribui para uma experiência mais intuitiva, ajudando os usuários a identificar facilmente qual elemento estão manipulando. A ênfase na visibilidade do estado do sistema no Origamid promove uma navegação mais clara e eficiente, melhorando a usabilidade do site.
+O site Doceru poderia melhorar a experiência do usuário indicando claramente o estado da ação ao clicar no botão de baixar o arquivo PDF. A ausência de feedback imediato, como uma mensagem de confirmação ou um indicador de progresso, deixa os usuários incertos sobre se a ação foi concluída com sucesso. Essa falta de clareza pode levar a momentos de espera frustrantes ou à preocupação de que algo possa ter dado errado. Implementar indicadores visuais ou mensagens informativas após o clique ajudaria a tranquilizar os usuários e proporcionaria uma experiência mais transparente e eficiente.
 
-![image](https://github.com/giovaniavila/bertoti/assets/112128418/8b0c91f3-116b-4575-baed-2348d3340009)
+![image](https://github.com/giovaniavila/bertoti/assets/112128418/81d53612-b5e2-4847-9a7d-c6b653992d4d)
 
-<br>
-<br>
-<br>
-
-# Correspondência entre o sistema e o mundo real
-O Google Docs exemplifica a heurística de correspondência entre o sistema e o mundo real ao utilizar ícones intuitivos para representar ações. Ao clicar em ícones familiares, como a imagem de uma pasta para abrir um arquivo, os usuários podem facilmente associar esses elementos visuais a ações do mundo real. Essa abordagem torna a interação mais natural e intuitiva, facilitando a compreensão do sistema. A correspondência entre ícones e funcionalidades no Google Docs contribui para uma experiência de usuário mais acessível e eficiente, melhorando significativamente a usabilidade do aplicativo.
-
-![image](https://github.com/giovaniavila/bertoti/assets/112128418/d14c331b-3e7a-4a7d-ba89-6cddd7b27d19)
-
-<br>
-<br>
-<br>
-
-# Liberdade de controle fácil pro usuário
-O Trello destaca-se ao incorporar a heurística de controle fácil para o usuário, proporcionando uma experiência intuitiva na adição e remoção de funções. Com uma interface simples, os usuários podem facilmente adicionar novos cards, arrastar e soltar para reorganizar tarefas e remover elementos com poucos cliques. A funcionalidade intuitiva do Trello permite que os usuários tenham controle total sobre seu espaço de trabalho, adaptando-o às suas necessidades dinâmicas. Essa abordagem eficaz na oferta de controle direto aos usuários contribui para uma experiência de uso flexível e personalizada no Trello.
-
-![image](https://github.com/giovaniavila/bertoti/assets/112128418/1845996b-2b94-47f0-8dd8-6d81f20120f2)
 
 
