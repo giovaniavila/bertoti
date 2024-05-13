@@ -1,0 +1,1 @@
+define algoritmos em classes separadas, semelhante ao open-closed principle
