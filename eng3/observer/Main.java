@@ -8,45 +8,6 @@ interface Observador {
     void update();
 }
 
-// Classe Botao que será observada
-class Botao {
-    private List<Observador> observadores = new ArrayList<>();
-
-    public void adicionarObservador(Observador observador) {
-        observadores.add(observador);
-    }
-
-    public void clicar() {
-        System.out.println("Botão clicado!");
-        notificarObservadores();
-    }
-
-    private void notificarObservadores() {
-        for (Observador observador : observadores) {
-            observador.update();
-        }
-    }
-}
-
-// Implementações concretas dos observadores
-class Menu implements Observador {
-    public void update() {
-        System.out.println("Menu atualizado!");
-    }
-}
-
-class BarraDeFerramentas implements Observador {
-    public void update() {
-        System.out.println("Barra de ferramentas atualizada!");
-    }
-}
-
-class Dialogo implements Observador {
-    public void update() {
-        System.out.println("Diálogo atualizado!");
-    }
-}
-
 // Exemplo de uso
 public class Main {
     public static void main(String[] args) {
