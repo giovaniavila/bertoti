@@ -1,20 +1,25 @@
 package mvc;
 
-// View
-interface View {
-    void update(List<Event> events, List<Notification> notifications);
-}
+public class View implements Observer {
+    private Model model;
+    private ControllerInterface controller;
 
-class ConsoleView implements View {
-    public void update(List<Event> events, List<Notification> notifications) {
-        System.out.println("Events:");
-        for (Event event : events) {
-            System.out.println("- " + event.getDescription());
-        }
+    public View(Model model, ControllerInterface controller) {
+        this.model = model;
+        this.controller = controller;
+        model.addObserver(this);
+    }
 
-        System.out.println("Notifications:");
-        for (Notification notification : notifications) {
-            System.out.println("- " + notification.getMessage());
-        }
+    public void createView() {
+        // Código para criar a interface gráfica
+    }
+
+    @Override
+    public void update(String notification) {
+        display(notification);
+    }
+
+    public void display(String notification) {
+        System.out.println("Notification: " + notification);
     }
 }

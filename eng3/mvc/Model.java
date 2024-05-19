@@ -1,28 +1,33 @@
 package mvc;
 
-// Model
-class Model {
-    private List<Event> events = new ArrayList<>();
-    private List<Notification> notifications = new ArrayList<>();
-    private List<View> views = new ArrayList<>();
+import java.util.ArrayList;
+import java.util.List;
 
-    public void addEvent(Event event) {
-        events.add(event);
-        notifyObservers();
-    }
+import javax.management.Notification;
 
+public class Model implements NotificationInterface {
+    private List<Observer> observers = new ArrayList<>();
+    private List<String> notifications = new ArrayList<>();
+
+    @Override
     public void addNotification(Notification notification) {
-        notifications.add(notification);
+        notifications.add(notification.getMessage());
         notifyObservers();
     }
 
-    public void registerView(View view) {
-        views.add(view);
-    }
-
-    private void notifyObservers() {
-        for (View view : views) {
-            view.update(events, notifications);
+    @Override
+    public void notifyObservers() {
+        for (Observer observer : observers) {
+            observer.update(notifications.get(notifications.size() - 1));
         }
     }
+
+    public void addObserver(Observer observer) {
+        observers.add(observer);
+    }
+
+    public void removeObserver(Observer observer) {
+        observers.remove(observer);
+    }
 }
+
