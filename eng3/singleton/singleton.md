@@ -1,5 +1,6 @@
 
-![singleton](https://github.com/giovaniavila/bertoti/assets/112128418/f303e063-be6c-4272-90ce-9d9b8e7005ad)
+
+![singleton](https://github.com/giovaniavila/bertoti/assets/112128418/d6d32dd2-1024-41a4-b696-24ed705dcc39)
 
 uma única instancia e fornecer um ponto global de acesso a essa instancia (useContext)
 
