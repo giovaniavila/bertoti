@@ -1,5 +1,6 @@
 
-![mvc](https://github.com/giovaniavila/bertoti/assets/112128418/792a2601-f354-4f9c-af91-e6f7b5a6f5e8)
+
+![mvc](https://github.com/giovaniavila/bertoti/assets/112128418/c3926829-f29a-416f-99ce-3d92fe291193)
 
 
 Model: Lógica de negocios da aplicacao, gerencia dados, responde consultas e processa instrucoes para controller
