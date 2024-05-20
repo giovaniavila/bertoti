@@ -1,13 +1,11 @@
-![strategy](https://github.com/giovaniavila/bertoti/assets/112128418/7ee0f386-e087-4900-a5e3-5164606fcf9f)
+![strategy](https://github.com/giovaniavila/bertoti/assets/112128418/cb4818ed-94e3-453d-a6d0-a1bafa207d12)
 
-![composite](https://github.com/giovaniavila/bertoti/assets/112128418/bc9420b3-e302-419d-8582-7fdb919d27a5)
+![composite](https://github.com/giovaniavila/bertoti/assets/112128418/8ac5cb00-6507-4239-ba65-b96b24971310)
 
-![facade](https://github.com/giovaniavila/bertoti/assets/112128418/ce2a042c-34a6-40e9-8ce5-9cd49acd977c)
+![facade](https://github.com/giovaniavila/bertoti/assets/112128418/c718e7fe-fd24-45ab-aeb7-66051a180b2c)
 
-![observer](https://github.com/giovaniavila/bertoti/assets/112128418/ed8c3a34-fe8b-48ea-8146-45cf7031a095)
+![observer](https://github.com/giovaniavila/bertoti/assets/112128418/6753852e-50d4-46d9-b187-ad791f3eefa5)
 
-![singleton](https://github.com/giovaniavila/bertoti/assets/112128418/f303e063-be6c-4272-90ce-9d9b8e7005ad)
+![singleton](https://github.com/giovaniavila/bertoti/assets/112128418/d6d32dd2-1024-41a4-b696-24ed705dcc39)
 
-![observer](https://github.com/giovaniavila/bertoti/assets/112128418/ed8c3a34-fe8b-48ea-8146-45cf7031a095)
-
-![mvc](https://github.com/giovaniavila/bertoti/assets/112128418/792a2601-f354-4f9c-af91-e6f7b5a6f5e8)
+![mvc](https://github.com/giovaniavila/bertoti/assets/112128418/c3926829-f29a-416f-99ce-3d92fe291193)
